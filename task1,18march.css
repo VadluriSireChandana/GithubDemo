@@ -16,10 +16,10 @@ h3{
 }
 .row{
   display:inline-flex;
-  height : 400px;
+  height : 300px;
   width: 100%;
 }
-  .left, .right {
+.left, .right {
     margin: 10px;
     width: 25%;
   }
