@@ -1,0 +1,15 @@
+.context1{
+    border: 5px outset black;
+  background-color: lightblue;
+  text-align: center;
+}
+.context2{
+    border: 5px outset black;
+  background-color: #add8e6;
+  text-align: left;
+}
+.maincontext{
+    border: 5px outset white;
+  background-color: lightblue;
+  text-align: right;
+}
